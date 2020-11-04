@@ -4,36 +4,31 @@
     "label": "Senior Prodction Engineer / Active Directory Expert",
     "picture": "https://simonsavoca.github.io/images/Profile.jpg",
     "email": "simon.savoca@gmail.com",
-    #"phone": "808-333-4444",
+    "phone": "",
     "website": "https://www.savoca.fr",
     "summary": "I am Simon, I have been a senior production engineer since 2007 and more particularly an Active Directory expert",
-    #"location": {
-    #  "address": "",
-    #  "postalCode": "96822",
-    #  "city": "Honolulu",
-    #  "countryCode": "USA",
-    #  "region": "Hawaii"
-    #},
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
     "profiles": [
       {
         "network": "github",
         "username": "simonsavoca",
         "url": "http://github.com/simonsavoca"
       },
-      #{
-      #  "network": "linkedin",
-      #  "username": "mollymaluhia",
-      #  "url": "http://linkedin.com/in/changeme"
-      #},
       {
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "facebook
+        "username": "simon.savoca
+        "url": "https//facebook.com/simon.savocva"
       }
     ]
   },
