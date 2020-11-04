@@ -1,30 +1,30 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
+    "name": "Simon SAVOCA",
+    "label": "Senior Prodction Engineer / Active Directory Expert",
+    "picture": "https://simonsavoca.github.io/images/Profile.jpg",
+    "email": "simon.savoca@gmail.com",
+    #"phone": "808-333-4444",
+    "website": "https://www.savoca.fr",
+    "summary": "I am Simon, I have been a senior production engineer since 2007 and more particularly an Active Directory expert",
+    #"location": {
+    #  "address": "",
+    #  "postalCode": "96822",
+    #  "city": "Honolulu",
+    #  "countryCode": "USA",
+    #  "region": "Hawaii"
+    #},
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "simonsavoca",
+        "url": "http://github.com/simonsavoca"
       },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
+      #{
+      #  "network": "linkedin",
+      #  "username": "mollymaluhia",
+      #  "url": "http://linkedin.com/in/changeme"
+      #},
       {
         "network": "twitter",
         "username": "mollymal",
